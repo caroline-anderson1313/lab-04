@@ -8,7 +8,7 @@ output:
 ---
 
 
-```{r load-data and packages, warning=FALSE, message=FALSE}
+```{r load-data-and-packages, warning=FALSE, message=FALSE}
 library(tidyverse)
 titanic <- read_csv("data/titanicsurvival.csv")
 ```
